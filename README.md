@@ -1,0 +1,2 @@
+# coc-loc-bot
+gaming
